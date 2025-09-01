@@ -28,7 +28,15 @@ Built using **Next.js** for the frontend & backend, powered by **MySQL** for per
 ---
 
 ## 📸 Screenshots  
-(Add your screenshots here)
+
+##  <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/94017df9-e123-4e23-b9a5-8f17ed7662a8" />
+##  <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/04c7ae40-6f58-4bd5-a262-28164b4dcbde" />
+##  <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/808e0d05-9740-4f6c-bd75-5dcb1f9fa323" />
+##  <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/33083fcd-b3b9-4570-8dd9-1e754c8c8bf5" />
+##  <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/0bcba3b4-5eef-426b-a229-e33a029a8b79" />
+
+
+
 
 ---
 
