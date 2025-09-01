@@ -76,7 +76,7 @@ export default function ShowSchools() {
                   fill
                   style={{ objectFit: "cover" }}
                   placeholder="blur"
-                  blurDataURL="/placeholder.png"
+                  blurDataURL="/placeholder.jpeg"
                 />
               </div>
               <div className="p-4">

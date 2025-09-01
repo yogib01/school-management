@@ -6,7 +6,7 @@ import { useForm } from "react-hook-form";
 export default function AddSchool() {
     const { register, handleSubmit, reset } = useForm();
     const [message, setMessage] = useState("");
-    const [loading, setLoading] = useState(false); // ✅ loading state
+    const [loading, setLoading] = useState(false); // loading state
 
     const onSubmit = async (data) => {
         const formData = new FormData();
@@ -22,7 +22,7 @@ export default function AddSchool() {
         }
 
         try {
-            setLoading(true); // ✅ start loading
+            setLoading(true); //  start loading
             const res = await fetch("/api/addSchool", {
                 method: "POST",
                 body: formData,
@@ -34,7 +34,7 @@ export default function AddSchool() {
         } catch (err) {
             setMessage("Something went wrong");
         } finally {
-            setLoading(false); // ✅ stop loading
+            setLoading(false); //  stop loading
         }
     };
 
